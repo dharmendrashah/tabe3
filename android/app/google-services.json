@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714486155533",
+    "firebase_url": "https://tabe3-a9894.firebaseio.com",
+    "project_id": "tabe3-a9894",
+    "storage_bucket": "tabe3-a9894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714486155533:android:f466b7426421566df04844",
+        "android_client_info": {
+          "package_name": "com.tabe3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714486155533-7c6067h4ebg5sfvss0okvjuee08qikul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_eFgQO4y2igQwnzjvOETTtkHiLhu_YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714486155533-7c6067h4ebg5sfvss0okvjuee08qikul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

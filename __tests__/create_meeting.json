@@ -1,0 +1,24 @@
+{
+    "meeting_details": {
+        "title": "Tu Megha Heija",
+        "agenda": "Tu Megha Heija",
+        "id": "27",
+        "password": "5227",
+        "meeting_id": "admin_4672",
+        "meeting_start_date": "2020-09-01",
+        "meeting_end_date": "2020-09-02",
+        "starting_time": "21:30:00",
+        "ending_time": "22:00:00",
+        "meeting_by":"name_creator",
+        "meeting_by_id":"2"
+    },
+    "perticipent_name": [
+        {
+            "name": "join me",
+            "status": "1" 
+        }
+    ],
+    "my_status":{
+        "accepted": "0|1|2"
+    }
+}
